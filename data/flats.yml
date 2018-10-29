@@ -1,0 +1,33 @@
+izzybrown:
+  name: "Izzy's home"
+  description: "Charming room in Montmartre"
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  accommodates: 2
+  bathrooms: 2
+  bedrooms: 1
+gmartinezcampos:
+  name: "Gaby's home"
+  description: Small flat in Tokyo
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Tokyo center."
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  accommodates: 4
+  bathrooms: 3
+  bedrooms: 3
+lucien-george:
+  name: Lucien's home
+  description: Nice flat in Piccadilly
+  about: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Piccadilly."
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  accommodates: 2
+  bathrooms: 2
+  bedrooms: 2
